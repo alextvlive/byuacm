@@ -1,2 +1,1 @@
-# news
-canada uk fr us
+byuacm
